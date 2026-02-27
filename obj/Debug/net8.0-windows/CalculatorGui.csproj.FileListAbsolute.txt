@@ -1,0 +1,16 @@
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\bin\Debug\net8.0-windows\CalculatorGui.exe
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\bin\Debug\net8.0-windows\CalculatorGui.deps.json
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\bin\Debug\net8.0-windows\CalculatorGui.runtimeconfig.json
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\bin\Debug\net8.0-windows\CalculatorGui.dll
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\bin\Debug\net8.0-windows\CalculatorGui.pdb
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.Form1.resources
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.csproj.GenerateResource.cache
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.AssemblyInfoInputs.cache
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.AssemblyInfo.cs
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.csproj.CoreCompileInputs.cache
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.dll
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\refint\CalculatorGui.dll
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.pdb
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\CalculatorGui.genruntimeconfig.cache
+C:\Users\mnyan\source\repos\CalculatorGui\CalculatorGui\obj\Debug\net8.0-windows\ref\CalculatorGui.dll
