@@ -18,12 +18,12 @@ Built to demonstrate GUI development and event-driven programming concepts.
 ```bash
 https://github.com/khethelomnyandu/CalculatorGui.git
 
-2.Open the project in your IDE (e.g., Visual Studio, VS Code)
+2.Open the project in your IDE (e.g., Visual Studio)
 
 3.Build and run the project
 
 4.Use the GUI to perform calculations
 
-Screenshot
+Author
 
-Replace path/to/your/screenshot.png with the actual screenshot file path in your repository.
+Your Name – Khethelo Mnyandu
